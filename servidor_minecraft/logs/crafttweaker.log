@@ -1,30 +1,110 @@
-[21:58:26.970][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
-[21:58:26.998][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
-[21:58:27.085][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
-[21:58:27.086][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[21:58:27.088][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin mekanism:crt_plugin
-[21:58:28.267][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
-[21:58:28.268][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.56'
-[21:58:28.272][INFO][CraftTweaker]: - 'mekanism' at version '10.4.14'
-[21:58:34.833][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'mekanismcontent'
-[21:58:35.071][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[21:58:35.717][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[21:58:35.792][INFO][CraftTweaker-ZenCode]: Execution for loader 'mekanismcontent' completed successfully
-[21:58:35.793][INFO][Mekanism]: Registering 0 custom gases.
-[21:58:35.798][INFO][Mekanism]: Registering 0 custom infuse types.
-[21:58:35.808][INFO][Mekanism]: Registering 0 custom pigments.
-[21:58:35.814][INFO][Mekanism]: Registering 0 custom slurries.
-[21:58:37.283][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
-[21:58:37.346][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[21:58:37.347][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[21:58:37.372][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
-[21:58:43.955][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
-[21:58:43.984][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[21:58:43.989][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
-[21:58:44.001][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
-[21:58:44.682][INFO][CraftTweaker]: crafttweaker.reload.start
-[21:58:44.685][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
-[21:58:44.712][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
-[21:58:44.905][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
-[21:58:44.919][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
-[21:58:44.920][INFO][CraftTweaker]: crafttweaker.reload.complete
+[22:10:38.148][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production server modded with platform Forge
+[22:10:38.177][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[22:10:38.242][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[22:10:38.243][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[22:10:38.244][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin mekanism:crt_plugin
+[22:10:39.108][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[22:10:39.113][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.56'
+[22:10:39.113][INFO][CraftTweaker]: - 'mekanism' at version '10.4.14'
+[22:10:45.551][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'mekanismcontent'
+[22:10:45.813][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:10:46.437][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[22:10:46.532][INFO][CraftTweaker-ZenCode]: Execution for loader 'mekanismcontent' completed successfully
+[22:10:46.533][INFO][Mekanism]: Registering 0 custom gases.
+[22:10:46.540][INFO][Mekanism]: Registering 0 custom infuse types.
+[22:10:46.549][INFO][Mekanism]: Registering 0 custom pigments.
+[22:10:46.553][INFO][Mekanism]: Registering 0 custom slurries.
+[22:10:47.513][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[22:10:47.592][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:10:47.593][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[22:10:47.617][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[22:10:55.778][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[22:10:55.852][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:10:55.874][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[22:10:55.893][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[22:10:56.842][INFO][CraftTweaker]: crafttweaker.reload.start
+[22:10:56.852][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[22:10:56.908][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[22:10:57.043][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[22:10:57.047][INFO][CraftTweaker-ZenCode]: Loading file 'añadidos.zs' with priority 0
+[22:10:57.048][INFO][CraftTweaker-ZenCode]: Loading file 'eiminados.zs' with priority 0
+[22:10:57.106][WARN][CraftTweaker]: añadidos.zs:1:0: Invalid recipe name 'satedDoubleChest', mistakes:
+- it must be all lowercase
+New recipe name: sateddoublechest
+[22:10:57.112][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:sateddoublechest' that outputs: '<item:inventorypets:temp_sated_double_chest>'
+[22:10:57.116][WARN][CraftTweaker]: añadidos.zs:3:0: Invalid recipe name 'satedChest', mistakes:
+- it must be all lowercase
+New recipe name: satedchest
+[22:10:57.116][INFO][CraftTweaker]: Adding 'minecraft:crafting' recipe, of type: "shaped", with name: 'crafttweaker:satedchest' that outputs: '<item:inventorypets:temp_sated_chest>'
+[22:10:57.117][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_menorah>'
+[22:10:57.133][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_christmas_tree>'
+[22:10:57.139][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_purplicious_cow>'
+[22:10:57.143][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_cobblestone>'
+[22:10:57.148][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_silverfish>'
+[22:10:57.152][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_pacman>'
+[22:10:57.156][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_cheetah>'
+[22:10:57.160][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_torch>'
+[22:10:57.165][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:temp_chest>'
+[22:10:57.169][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:temp_double_chest>'
+[22:10:57.173][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_april_fool>'
+[22:10:57.177][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_enchanting_table>'
+[22:10:57.179][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_furnace>'
+[22:10:57.180][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_lead>'
+[22:10:57.181][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_loot>'
+[22:10:57.182][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_wither>'
+[22:10:57.182][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_sun>'
+[22:10:57.183][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_flying_saddle>'
+[22:10:57.183][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_mishumaa_saba>'
+[22:10:57.184][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_politically_correct>'
+[22:10:57.185][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_shield>'
+[22:10:57.185][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_black_hole>'
+[22:10:57.186][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_cloud>'
+[22:10:57.187][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_pufferfish>'
+[22:10:57.188][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_banana>'
+[22:10:57.189][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_saddle>'
+[22:10:57.189][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_blaze>'
+[22:10:57.190][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_creeper>'
+[22:10:57.191][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_enderman>'
+[22:10:57.192][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_moon>'
+[22:10:57.193][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_iron_golem>'
+[22:10:57.193][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_magma_cube>'
+[22:10:57.194][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_snow_golem>'
+[22:10:57.195][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_chicken>'
+[22:10:57.196][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_sheep>'
+[22:10:57.197][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_mooshroom>'
+[22:10:57.197][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_torch>'
+[22:10:57.198][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_spider>'
+[22:10:57.199][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_bed>'
+[22:10:57.200][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_brewing_stand>'
+[22:10:57.200][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_ghast>'
+[22:10:57.201][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_crafting_table>'
+[22:10:57.202][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_anvil>'
+[22:10:57.203][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_cow>'
+[22:10:57.203][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_squid>'
+[22:10:57.204][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_pig>'
+[22:10:57.205][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_heart>'
+[22:10:57.206][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_ocelot>'
+[22:10:57.207][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_slime>'
+[22:10:57.207][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_ender_chest>'
+[22:10:57.208][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_jukebox>'
+[22:10:57.209][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_nether_portal>'
+[22:10:57.210][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_end_portal>'
+[22:10:57.210][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_biome>'
+[22:10:57.211][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_sponge>'
+[22:10:57.212][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_qcm>'
+[22:10:57.213][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_dubstep>'
+[22:10:57.214][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_pingot>'
+[22:10:57.214][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_grave>'
+[22:10:57.215][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_apple>'
+[22:10:57.216][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_illuminati>'
+[22:10:57.217][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_house>'
+[22:10:57.217][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_dirt>'
+[22:10:57.218][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_quiver>'
+[22:10:57.219][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_pixie>'
+[22:10:57.220][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_wolf>'
+[22:10:57.220][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_siamese>'
+[22:10:57.221][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_juggernaut>'
+[22:10:57.222][INFO][CraftTweaker]: Removing 'crafting' recipes with output: '<item:inventorypets:pet_mickerson>'
+[22:10:57.223][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[22:10:57.224][INFO][CraftTweaker]: crafttweaker.reload.complete
+[22:10:57.225][INFO][CraftTweaker]: This reload was made possible by Hooley and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod

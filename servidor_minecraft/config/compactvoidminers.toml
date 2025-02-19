@@ -23,7 +23,7 @@
 	"Max Speed Upgrades" = 24
 	#Chunkloader radius in Chunks [default:1]
 	#Range: 0 ~ 1
-	"Chunkloader Radius" = 2
+	"Chunkloader Radius" = 1
 
 ["Void Miner"]
 	#To get an items tag / item id, use /cvm iteminfo while holding an item
