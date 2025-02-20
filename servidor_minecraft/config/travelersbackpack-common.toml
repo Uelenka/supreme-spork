@@ -21,11 +21,11 @@
 		#List of items that can be put in tool slots (Use registry names, for example: "minecraft:apple", "minecraft:flint")
 		toolSlotsAcceptableItems = []
 		#Tool slots accept any item
-		toolSlotsAcceptEverything = false
+		toolSlotsAcceptEverything = true
 		#List of items that can't be put in backpack inventory (Use registry names, for example: "minecraft:apple", "minecraft:flint")
 		blacklistedItems = []
 		#Allows putting shulker boxes and other items with inventory in backpack
-		allowShulkerBoxes = false
+		allowShulkerBoxes = true
 		#Prevents backpack disappearing in void, spawns floating backpack above minimum Y when player dies in void
 		voidProtection = true
 		#Places backpack at place where player died
