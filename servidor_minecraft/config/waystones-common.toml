@@ -67,7 +67,7 @@
 [cooldowns]
 	#The multiplier applied to the cooldown when teleporting to a global waystone via inventory button or warp stone.
 	#Range: -1.7976931348623157E308 ~ 1.7976931348623157E308
-	globalWaystoneCooldownMultiplier = 1.0
+	globalWaystoneCooldownMultiplier = 0.0
 	#The cooldown between usages of the warp stone in seconds. This is bound to the player, not the item, so multiple warp stones share the same cooldown.
 	#Range: > -2147483648
 	warpStoneCooldown = 0.0
@@ -79,7 +79,7 @@
 	warpPlateUseTime = 20
 	#The time in ticks it takes to use a scroll. This is the charge-up time when holding right-click.
 	#Range: > -2147483648
-	scrollUseTime = 32
+	scrollUseTime = 0.0
 	#The cooldown between usages of the inventory button in seconds.
 	#Range: > -2147483648
 	inventoryButtonCooldown = 300
